@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ndiesa.github.io/gmK/sitemap.gmK.gz
