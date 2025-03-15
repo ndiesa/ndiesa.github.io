@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ndiesa.csgad.com/Btd/sitemap.xml.gz
